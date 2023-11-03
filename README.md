@@ -14,4 +14,4 @@ It should work on any linux distro, however I only tested it on Ubuntu, so you m
 
 ## Screenshot
 This is how the conky currently looks like on my desktop :)  
-![screenshot](./screeenshot.png)
+![screenshot](./screenshot.png)
