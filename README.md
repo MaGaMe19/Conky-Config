@@ -10,8 +10,8 @@ $ ./conkyStart
 ```
 
 You can add the file `conkyAutoStart.sh` to your startup applications to make conky start automatically on system startup. For this to work correctly you need to change the path  in line 3 after `--config=` to wherever you cloned this repo into (something like `$HOME/<path-to-repo>/Conky-Config/conky.conf`).   
-It should work on any linux distro, however I only tested it on Ubuntu, so you might have to change it.
+It should work on any Linux distro, however I only tested it on Ubuntu, so you might have to change it.
 
 ## Screenshot
-This is how the it currently looks like on my desktop :)  
+This is how it currently looks like on my desktop :)  
 ![screenshot](./screenshot.png)
