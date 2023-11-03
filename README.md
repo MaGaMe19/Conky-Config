@@ -3,7 +3,7 @@ The file `conky.conf` is a very simple config file for the unix system monitor c
 It shows all essential information directly on your desktop such as CPU load, RAM load and some other stats.
 
 To start conky with this config, download `conky.conf` and navigate to the folder where it is contained, then:
-```bash
+```shell
 conky --config=conky.conf --daemonize
 ```
 
