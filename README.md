@@ -13,5 +13,5 @@ You can add the file `conkyAutoStart.sh` to your startup applications to make co
 It should work on any linux distro, however I only tested it on Ubuntu, so you might have to change it.
 
 ## Screenshot
-This is how the conky currently looks like on my desktop :)  
+This is how the it currently looks like on my desktop :)  
 ![screenshot](./screenshot.png)
