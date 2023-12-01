@@ -2,6 +2,9 @@
 The file `conky.conf` is a very simple config file for the unix system monitor conky.  
 It shows all the essential information directly on your desktop such as CPU load, RAM load and some other stats.
 
+## Requirements
+This config uses the Nerd Font CaskaydiaCave for two symbols, if you don't want to get the font, you can remove the two symbols on line 54 and it should default to some other font.
+
 ## Usage
 ### Linux
 To start conky with this config, clone this repo, move to the repository `Conky-Config` where the files are, then:
